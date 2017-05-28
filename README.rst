@@ -17,9 +17,9 @@ and configure way of utilizing the `app shell`_ architecture from google.
 
 
 
-_`Using Django with service workers`: https://opbeat.com/community/posts/using-django-with-service-workers-by-adrian-holovaty/
-_`Adrian Holovaty`: http://www.holovaty.com/
-_`app shell`: https://developers.google.com/web/fundamentals/architecture/app-shell
+.. _`Using Django with service workers`: https://opbeat.com/community/posts/using-django-with-service-workers-by-adrian-holovaty/
+.. _`Adrian Holovaty`: http://www.holovaty.com/
+.. _`app shell`: https://developers.google.com/web/fundamentals/architecture/app-shell
 
 Documentation
 -------------
