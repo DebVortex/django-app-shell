@@ -11,7 +11,15 @@ Django App Shell
 .. image:: https://codecov.io/gh/DebVortex/django-app-shell/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/DebVortex/django-app-shell
 
-Easy use service workers and the app shell concept for django.
+Inspired by the `Using Django with service workers`_ talk by `Adrian Holovaty`_
+from the DjangoCon Europe 2016, django-app-shell aims to provide an easy to use
+and configure way of utilizing the `app shell`_ architecture from google.
+
+
+
+_`Using Django with service workers`: https://opbeat.com/community/posts/using-django-with-service-workers-by-adrian-holovaty/
+_`Adrian Holovaty`: http://www.holovaty.com/
+_`app shell`: https://developers.google.com/web/fundamentals/architecture/app-shell
 
 Documentation
 -------------
@@ -51,7 +59,9 @@ Add Django App Shell's URL patterns:
 Features
 --------
 
-* TODO
+* client side caching using service worker (TODO)
+* easy push notification API (TODO)
+* offline use of page/features using service worker (TODO)
 
 Running Tests
 -------------
